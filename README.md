@@ -8,7 +8,7 @@ provide business-driven marketing recommendations using Python, SQL, Exel, and P
 Python (Pandas, Scikit-learn, Matplotlib)
 SQL
 Power BI
-Ecel
+Excel
 
 ## Key Steps
 Data Cleaning & EDA
@@ -38,3 +38,6 @@ Promotions for budget customers
 .Customer Segmentation (K-Means Clustering)
 .Business Strategy and Marketing Insights
 .Dashboard Design (Power BI)
+
+## Author
+Laxmi Kaddoni
