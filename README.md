@@ -2,7 +2,7 @@ Customer Purchase Behavior Analysis
 
 ## Overview
 This project analyzes customer purchase data to understand buying behavior, segment customers, and 
-provide business-driven marketing recommendations using Python, SQL, Exel, and Power BI.
+provide business-driven marketing recommendations using Python, SQL, Excel, and Power BI.
 
 ## Tools Used
 Python (Pandas, Scikit-learn, Matplotlib)
